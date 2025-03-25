@@ -16,7 +16,7 @@ print("list after extending with 50,60,70:" ,my_list)
 #Remove the last element from my_list.
 my_list.pop(-1)
 print("list after removing the last element:" ,my_list)
-#Sort my_list in ascending order.
+#Sorting my_list in ascending order.
 my_list.sort()
 print("list after sorting in ascending order:" ,my_list)
 #Find and print the index of the value 30 in my_list.
